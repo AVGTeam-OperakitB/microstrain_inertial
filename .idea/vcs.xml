@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/microstrain_inertial_driver/microstrain_inertial_driver_common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/microstrain_inertial_driver/microstrain_inertial_driver_common/mip_sdk" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/microstrain_inertial_msgs/microstrain_inertial_msgs_common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/microstrain_inertial_rqt/microstrain_inertial_rqt_common" vcs="Git" />
+  </component>
+</project>
